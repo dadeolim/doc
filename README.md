@@ -5,10 +5,15 @@ http://git-scm.com/download/win
 
 
 -- 소스가져오기
-git clone http://manojob.github.io/
+git clone http://dadeolim.github.io/
+
+-- 설정
+git config --global user.name dadeolim
 
 
 -- 로컬 소스 반영
+git remote add dadeolim http://dadeolim.github.io/
+
 git add .
 git commit -m "소스추가"
 git pull
