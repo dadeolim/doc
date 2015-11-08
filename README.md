@@ -1,4 +1,7 @@
 # doc
+-- 환경설정
+http://git-scm.com/download/win
+
 
 
 -- 소스가져오기
